@@ -1,4 +1,4 @@
-# crypto-price-prediction
+# Predicting Cryptocurrency Price Change with Twitter Sentiment Analysis
 
 Applies sentiment analysis to tweets in order to predict future price change in cryptocurrencies.
 
